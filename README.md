@@ -12,7 +12,7 @@ Before Contributing, be sure to read and follow the guidelines outlined in the C
 5. To submit a pull request, go back to your fork in Github, and then click "Contribute" and then "Open pull request".
 
 # License
-
+Software is licsensed using Unlicensed. Go to LICENSE.md for more.
 
 # Code of Conduct
 look at the CODE-OF-CONDUCT.md file
