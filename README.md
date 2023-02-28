@@ -12,7 +12,7 @@ Before Contributing, be sure to read and follow the guidelines outlined in the C
 5. To submit a pull request, go back to your fork in Github, and then click "Contribute" and then "Open pull request".
 
 # License
-you should include how your software is licensed
+you should include how your software is licensed.
 
 # Code of Conduct
 look at the CODE-OF-CONDUCT.md file
